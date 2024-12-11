@@ -1,6 +1,3 @@
-# WebCrawler
-
-Here's a detailed README file for your web crawler project. This README includes project setup, installation instructions, how to run the application, troubleshooting tips, and more.
 
 ---
 
